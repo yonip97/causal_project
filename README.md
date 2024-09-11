@@ -1,4 +1,4 @@
-# Stackoverflow-CausulInference
+# Causal Inference
 
 ## Description
 In this causal research we sought to answer the question "<i>What is the effect of movie's pre-release review score on its ROI </i>" <br>
